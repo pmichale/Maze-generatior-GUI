@@ -1,1 +1,1 @@
-# Maze-generatior-GUI
+# Maze-generator-GUI
